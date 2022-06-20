@@ -11,8 +11,10 @@ Project is created with:
 * [ReactJS](https://reactjs.org/ "React Homepage")
 * [TailwindCSS](https://tailwindcss.com/ "Tailwind Homepage")
 
-And also initializated with:
-* [Vit](https://vitejs.dev/ "Vit Homepage")
+And also:
+* Initializated with [Vite](https://vitejs.dev/ "Vite Homepage")
+* Deployed with [GitHub Pages](https://pages.github.com/ "GH Pages Homepage")
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" width="40" width="40">

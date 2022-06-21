@@ -1,6 +1,8 @@
 # react-calculator
 React Calculator
 
+![Calculator](https://imgur.com/a/inUECg2)
+
 ## Features
 1. Add, subtract, multiply, divide
 2. Support decimal values

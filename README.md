@@ -1,7 +1,7 @@
 # react-calculator
 React Calculator
 
-![Calculator](https://imgur.com/a/inUECg2)
+![Calculator](https://i.imgur.com/3rlKzmv.gif)
 
 ## Features
 1. Add, subtract, multiply, divide
